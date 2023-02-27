@@ -1,0 +1,22 @@
+h1{
+    color: orange;
+    font-size: 64px;
+    margin-left: 20px;
+    padding: 50px; 
+}
+.about p{
+    margin-left: 15px;
+}
+h2{
+    color: #F0A04B;
+}
+body{
+    background-color:
+    yellow;
+    font-family: 'Montserrat', sans-serif;
+}
+.landing{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
